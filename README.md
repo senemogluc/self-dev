@@ -34,5 +34,3 @@ If you have any questions or would like to connect with me, you can reach out vi
 [Email](cagin.senemoglu@gmail.com)<br>
 [LinkedIn](https://www.linkedin.com/in/caginsenemoglu/)<br>
 Thank you for visiting my coding repository, and I hope you find it helpful in your own coding journey!<br>
-
-Feel free to customize the content based on your specific goals, structure, and contact information. Remember to replace the placeholder email and LinkedIn links with your own contact details. Good luck with your coding self-improvement!
